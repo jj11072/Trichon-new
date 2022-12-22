@@ -34,16 +34,22 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
+    imgUrl: '/features.svg',
     title: 'Modern Features',
     subtitle:
         'we have the latest up to date features, so you can enjoy the latest technology',
   },
   {
-    imgUrl: '/headset.svg',
+    imgUrl: '/quality.svg',
     title: 'Quality Experience',
     subtitle:
         'we work hard to make sure you have the best experience online',
+  },
+  {
+    imgUrl: '/fast.svg',
+    title: 'Fast Delivery',
+    subtitle:
+        'we will create your project as fast as possible',
   },
 ];
 
