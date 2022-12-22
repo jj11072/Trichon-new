@@ -78,17 +78,21 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    href: 'https://twitter.com/trichon-media',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    href: 'https://www.linkedin.com/company/trichon-media',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    href: 'https://www.instagram.com/trichon.media/',
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    href: 'https://www.facebook.com/trichon.media',
   },
 ];

@@ -52,13 +52,19 @@ const Navbar = () => {
       variants={navVariants}
       initial="hidden"
       whileInView="show"
-      className={`${styles.xPaddings} py-8 `}
+      className={`${styles.xPaddings} py-8 h-[100px] `}
     >
       <div className=" w-[50%] inset-0 gradient-01 " />
       <div
         className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}
       >
-        <img src="/vercel.svg" alt="search" className="w-[24px] h-[24px]" />
+        <div className="w-[120px] h-[120px] -mt-10 -ml-10 -mr-10">
+          <img
+            src="/logo.png"
+            alt="search"
+            className="w-full object-cover"
+          />
+        </div>
         <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
           TRICHON-MEDIA
         </h2>
