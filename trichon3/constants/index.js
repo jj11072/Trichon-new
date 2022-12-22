@@ -55,19 +55,19 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
+    imgUrl: '/social-marketing.jpg',
     title: 'How we launched a social network in 3 months',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
-    imgUrl: '/planet-07.png',
+    imgUrl: '/graphs.jpg',
     title: '7 tips to expand your business in 2023',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
-    imgUrl: '/planet-08.png',
+    imgUrl: '/cover.jpg',
     title: 'How to get noticed on social media',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',

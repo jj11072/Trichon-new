@@ -33,7 +33,7 @@ const Hero = () => (
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[25px]" />
 
         <img
-          src="/cover.jpg"
+          src="/cover-1.jpg"
           alt="hero_cover"
           className="w-full sm:h-[500px] h-[350px] object-fit rounded-tl-[140px] z-10 relative"
         />
